@@ -1,2 +1,2 @@
-# surviving_statistical_genetics
+# Surviving statistical genetics
 This repo provides tools for statistical genetics
